@@ -1,0 +1,29 @@
+abstract class AppText {
+  static const String appName = "Chalchitra";
+  static const String login = "Log in";
+  static const String logout = "Logout";
+  static const String phoneNumber = 'Phone Number';
+  static const String home = 'Home';
+  static const String enterValidPhoneNumber = 'Enter Valid Phone Number';
+  static const String enterOTP = "Enter OTP";
+  static const String verify = "Verify";
+  static const String next = "Next";
+  static const String send = "Send";
+  static const String sent = "Sent";
+  static const String resendOTP = "Resend OTP";
+  static const String enterFullName = "Enter Full Name";
+  static const String gender = "Gender";
+  static const String dateOfBirth = "Date of birth";
+  static const String loading = "Loading";
+  static const String error = "Error";
+  static const String empty = "Empty";
+  static const String ok = "OK";
+  static const String success = "Success";
+  static const String retryAgain = "Retry Again";
+  static const String phoneError = "Phone cannot be empty";
+  static const String otpError = "OTP cannot be empty";
+  static const String enterValidOTP = "Enter Valid OTP";
+  static const String name = "name";
+  static const String number = "number";
+  static const String createNewAccount = "Create New Account";
+}
